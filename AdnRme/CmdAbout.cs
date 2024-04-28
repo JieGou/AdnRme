@@ -44,7 +44,7 @@ namespace AdnRme
     /// </summary>
     public Result Execute(
       ExternalCommandData commandData,
-      ref String message,
+      ref string message,
       ElementSet elements )
     {
       try
